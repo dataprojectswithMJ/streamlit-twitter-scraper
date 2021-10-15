@@ -5,6 +5,12 @@
  Disclaimer:
   This project is built for research purposes only. I, ***Mpho Kubeka*** , as the developer am not responsible for any misuse of this project. I believe that this kind of   technology should be accessible if needed for the correct reasons.
   
+ ### This project is built using 
+ * Streamlit
+ * Twint
+ * Pandas
+ 
+  
 ## A web app to scrape past Tweets
 ![Screenshot from 2021-10-15 17-46-50](https://user-images.githubusercontent.com/92593501/137516457-e67e1897-b592-4b1d-9402-3e863fa2cd16.png)
 
