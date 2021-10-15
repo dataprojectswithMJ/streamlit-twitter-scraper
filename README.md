@@ -1,4 +1,7 @@
 # streamlit-twitter-scraper
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=dataprojectswithMJ&show_icons=true)
+
  Disclaimer:
   This project is built for research purposes only. I, ***Mpho Kubeka*** , as the developer am not responsible for any misuse of this project. I believe that this kind of   technology should be accessible if needed for the correct reasons.
   
