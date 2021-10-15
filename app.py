@@ -35,8 +35,7 @@ with st.form(key='Twitter_form'):
         c.Search = search_term
         c.Limit = limit
 
-        if output_csv == 'Yes':
-            c.Store_csv = True
+        c.Store_csv = True
 
         if c.Store_csv:
             c.Output = f'{file_name}.csv'
@@ -46,4 +45,6 @@ with st.form(key='Twitter_form'):
         data = pd.read_csv(f'{file_name}.csv', usecols=['date', 'tweet'])
         st.table(data)
 
-        st.markdown(get_table_download_link(data, file_name), unsafe_allow_html=True)
+        if output_csv == 'Yes':
+            st.markdown(get_table_download_link(data, file_name), unsafe_allow_html=True)
+
