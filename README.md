@@ -1,12 +1,6 @@
 # streamlit-twitter-scraper
 
-https://badgen.net//badge/license/MIT/green
-
-https://img.shields.io/badge/Maintained%3F-yes-green.svg
-
-http://ForTheBadge.com/images/badges/made-with-python.svg
-
-https://img.shields.io/github/license/dataprojectswithMJ/streamlit-twitter-scraper.svg
+![MADE WITH PYTHON](http://ForTheBadge.com/images/badges/made-with-python.svg)   ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   
 
  Disclaimer:
   This project is built for research purposes only. I, ***Mpho Kubeka*** , as the developer am not responsible for any misuse of this project. I believe that this kind of   technology should be accessible if needed for the correct reasons.
