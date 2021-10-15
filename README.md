@@ -10,6 +10,9 @@
  * Twint
  * Pandas
  * base64
+
+## Hosted on Heroku:
+**Link:** https://getsometweets.herokuapp.com/
  
   
 ## A web app to scrape past Tweets
