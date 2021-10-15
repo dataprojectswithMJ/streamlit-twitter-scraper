@@ -9,6 +9,7 @@
  * Streamlit
  * Twint
  * Pandas
+ * base64
  
   
 ## A web app to scrape past Tweets
@@ -39,4 +40,4 @@ At the moment only CSV formats can be exported. I am incorporating other output 
 > pip3 install requirements.text
 
 ### Run Streamlit
-> streamlit run main.py
+> streamlit run app.py
