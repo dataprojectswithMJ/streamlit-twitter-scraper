@@ -11,8 +11,11 @@
  * Pandas
  * base64
 
-## Hosted on Heroku:
-**Link:** https://getsometweets.herokuapp.com/
+## Hosted on AWS:
+[Link](http://13.244.233.247:8501/)
+
+## Article on Medium
+[How to build a beautiful Twitter scraping web app using Streamlit and Twint.](https://medium.com/@dataprojectswithMJ/how-to-build-a-beautiful-twitter-scraping-web-app-using-streamlit-and-twint-44a725d3be07)
  
   
 ## A web app to scrape past Tweets
