@@ -43,7 +43,7 @@ At the moment only CSV formats can be exported. I am incorporating other output 
 ## Installation
 
 ### Pip
-> pip3 install requirements.text
+> pip3 install requirements.txt
 
 ### Run Streamlit
 > streamlit run app.py
