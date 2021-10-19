@@ -47,7 +47,8 @@ At the moment only CSV formats can be exported. I am incorporating other output 
 
 #### When installing Twint. Follow the following steps to get the modified version of Twint. This is because Twint can get the Limit of tweets incorrect and this modification fixes that.
  1. Go to the Twint file
- 2. Run
+ 2. Navigate into the other smaller **twint** file
+ 3. Run
    > python3 setup.py install #insert sudo if Linux
 
 ### Run Streamlit
