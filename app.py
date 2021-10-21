@@ -3,6 +3,8 @@ import twint
 import pandas as pd
 from functions import get_csv_download_link
 
+st.set_page_config(page_title='Twitter scraper',page_icon=':iphone:')
+
 st.image('dark_banner.png')
 st.subheader("""
 Let's scrape some Tweets... Hope Twitter doesn't ban me :smile:
