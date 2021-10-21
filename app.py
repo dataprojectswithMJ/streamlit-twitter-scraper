@@ -3,14 +3,16 @@ import twint
 import pandas as pd
 from functions import get_csv_download_link
 
+# Set page name and favicon
 st.set_page_config(page_title='Twitter scraper',page_icon=':iphone:')
+
 
 st.image('dark_banner.png')
 st.subheader("""
 Let's scrape some Tweets... Hope Twitter doesn't ban me :smile:
 """)
 
-
+# customize form
 with st.form(key='Twitter_form'):
     search_term = st.text_input('What do you want to search for?')
     limit = st.slider('How many tweets do you want to get?', 0, 500, step=20)
@@ -19,6 +21,7 @@ with st.form(key='Twitter_form'):
     submit_button = st.form_submit_button(label='Search')
 
     if submit_button:
+        # configure twint
         c = twint.Config()
 
         c.Search = search_term
