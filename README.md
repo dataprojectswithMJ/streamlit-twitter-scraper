@@ -1,6 +1,7 @@
 # streamlit-twitter-scraper
 
-![MADE WITH PYTHON](http://ForTheBadge.com/images/badges/made-with-python.svg)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)   ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   
+![MADE WITH PYTHON](http://ForTheBadge.com/images/badges/made-with-python.svg)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/)
+   ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   
 
  Disclaimer:
   This project is built for research purposes only. I, ***Mpho Kubeka*** , as the developer am not responsible for any misuse of this project. I believe that this kind of   technology should be accessible if needed for the correct reasons.
