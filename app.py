@@ -37,6 +37,6 @@ with st.form(key='Twitter_form'):
         data = pd.read_csv(f'{file_name}.csv', usecols=['date', 'tweet'])
         st.table(data)
 
-        if output_csv == 'Yes':
-            st.markdown(get_csv_download_link(data, file_name), unsafe_allow_html=True)
+#         if output_csv == 'Yes':
+#             st.markdown(get_csv_download_link(data, file_name), unsafe_allow_html=True)
 
