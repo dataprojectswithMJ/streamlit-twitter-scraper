@@ -38,5 +38,5 @@ with st.form(key='Twitter_form'):
         st.table(data)
 
         if output_csv == 'Yes':
-            st.markdown(get_table_download_link(data, file_name), unsafe_allow_html=True)
+            st.markdown(get_csv_download_link(data, file_name), unsafe_allow_html=True)
 
