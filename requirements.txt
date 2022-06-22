@@ -1,3 +1,4 @@
 pandas==1.3.2
 streamlit==1.0.0
-git+git://github.com/dataprojectswithMJ/twint.git
+git+https://github.com/twintproject/twint.git@origin/master#egg=twint
+git+https://github.com/dataprojectswithMJ/twint.git
