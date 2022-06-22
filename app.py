@@ -1,7 +1,7 @@
 import streamlit as st
 import twint
 import pandas as pd
-from functions import get_csv_download_link
+# from functions import get_csv_download_link
 
 # Set page name and favicon
 st.set_page_config(page_title='Twitter scraper',page_icon=':iphone:')
@@ -40,3 +40,4 @@ with st.form(key='Twitter_form'):
 #         if output_csv == 'Yes':
 #             st.markdown(get_csv_download_link(data, file_name), unsafe_allow_html=True)
 
+st.download_button(label='Download results', data='data', filename = f'{file_name}.csv', mime='text/csv')
