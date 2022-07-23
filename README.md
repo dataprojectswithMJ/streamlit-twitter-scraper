@@ -12,8 +12,8 @@
  * Pandas
  * base64
 
-## Hosted on AWS:
-[Link](http://13.244.233.247:8501/)
+## Hosted on Streamlit Cloud [(read more about Streamlit Cloud)](https://streamlit.io/cloud):
+[Streamlit Twitter Scraper](https://dataprojectswithmj-streamlit-twitter-scraper-app-y4efs3.streamlitapp.com/)
 
 ## Article on Medium
 [How to build a beautiful Twitter scraping web app using Streamlit and Twint.](https://medium.com/@dataprojectswithMJ/how-to-build-a-beautiful-twitter-scraping-web-app-using-streamlit-and-twint-44a725d3be07)
