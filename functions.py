@@ -1,4 +1,10 @@
 import base64
+import pandas as pd
+
+
+def convert_df(df):
+    return df.to_csv().encode('utf-8')
+
 
 def get_csv_download_link(csv, filename):
     """Generates a link allowing the data in a given panda dataframe to be downloaded
