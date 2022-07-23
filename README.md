@@ -32,7 +32,8 @@ I have been going through some issues with the slider. Whenever a number is chos
 This is in table form showing the Tweet as well as the time the Tweet was made.
 
 ### Output 2:
-![download-link](https://user-images.githubusercontent.com/92593501/137518592-703f0cf4-8190-4260-a52a-a198cda39a0c.png)
+![Screenshot 2022-07-23 at 17 14 04](https://user-images.githubusercontent.com/92593501/180611114-7010540e-aa48-4781-9678-bed32247acad.png)
+
 
 The file can be downloaded.However the option to save file as CSV has to be ***YES***.
 At the moment only CSV formats can be exported. I am incorporating other output formats such as:
