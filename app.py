@@ -34,7 +34,7 @@ with st.form(key='Twitter_form'):
 
         twint.run.Search(c)
 
-        data = pd.read_csv(f'{file_name}.csv', usecols=['date', 'tweet'])
+        data = pd.read_csv(f'{file_name}.csv') #, usecols=['date', 'tweet'])
         st.table(data)
 
 #         if output_csv == 'Yes':
