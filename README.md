@@ -1,4 +1,5 @@
-# streamlit-twitter-scraper
+# Twitter Sentiment Analysis Web App
+## streamlit-twitter-scraper
 
 ![MADE WITH PYTHON](http://ForTheBadge.com/images/badges/made-with-python.svg)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/)
    ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   
