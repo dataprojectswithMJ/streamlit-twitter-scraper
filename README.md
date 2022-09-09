@@ -5,7 +5,7 @@
    ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   
 
  Disclaimer:
-  This project is built for research purposes only. I, ***Mpho Kubeka*** , as the developer am not responsible for any misuse of this project. I believe that this kind of   technology should be accessible if needed for the correct reasons.
+  This project is built for research purposes only. I, ***Mpho J Kubeka*** , as the developer am not responsible for any misuse of this project. I believe that this kind of   technology should be accessible if needed for the correct reasons.
   
  ### This project is built using 
  * Streamlit
@@ -25,12 +25,12 @@
 
 
 ### Requesting Tweets is really easy:
-![Screenshot from 2021-10-15 17-47-04](https://user-images.githubusercontent.com/92593501/137516507-1306cd05-54ed-4aa9-ae5b-cc8ce1268d9f.png)
+<img width="700" alt="Screenshot 2022-09-09 at 12 59 12" src="https://user-images.githubusercontent.com/92593501/189335562-4694dd35-6351-457f-890c-f10f21ce00eb.png">
 I have been going through some issues with the slider. Whenever a number is chosen, the scraper always goes over the specified amount. This issue is on top of my priorities list.)
 
 ### The Output 1:
-![Screenshot from 2021-10-15 17-47-14](https://user-images.githubusercontent.com/92593501/137516705-d368a655-164d-45e8-b7c4-716e5f5b74aa.png)
-This is in table form showing the Tweet as well as the time the Tweet was made.
+<img width="784" alt="Screenshot 2022-09-09 at 12 55 04" src="https://user-images.githubusercontent.com/92593501/189335237-f6c1c47c-c162-4fd9-8dbc-5750b7cc1c16.png">
+This is in table form showing the Tweet, date when the tweet was made, the language code of the tweet as well as the sentiment. In the case of an error, the error will be included in the field.
 
 ### Output 2:
 ![Screenshot 2022-07-23 at 17 14 04](https://user-images.githubusercontent.com/92593501/180611114-7010540e-aa48-4781-9678-bed32247acad.png)
